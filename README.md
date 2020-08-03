@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [jetburn](https://jetburn.rtfd.io)
-- 🌱 I’m currently learning the subtle art of not giving a `f***`
-- 👯 I’m looking to collaborate on projects that helps build high quality source code
-- 💬 Ask me about `DevOps`, `Jenkins`, `K8s`, `Cisco Meraki`, `DevNet`, `System Administration`, `NGINX`
+- 🌱 I’m currently learning `the subtle art of not giving a` **`f$%#`**
+- 👯 I’m looking to collaborate on projects that `helps build high quality source code`
+- 💬 Ask me about `DevOps`, `CI/CD`, `Jenkins`, `K8s`, `Cisco Meraki`, `DevNet`, `System Administration`, `NGINX`
 - 📫 How to reach me: [https://dalwar23.com](https://dalwar23.com)
-- 😄 Pronouns: who cares? I don't
+- 😄 Pronouns: Who cares? I don't. **Literally i don't give a `$h!7`** about what pronouns you use.
 - ⚡ Fun fact: `I had FUN once, it was awful`
