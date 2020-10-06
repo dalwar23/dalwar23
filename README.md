@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that `helps build high quality source code`
 - 💬 Ask me about `DevOps`, `CI/CD`, `Jenkins`, `K8s`, `Cisco Meraki`, `DevNet`, `System Administration`, `NGINX`
 - 📫 How to reach me: [https://dalwar23.com](https://dalwar23.com)
-- 😄 Pronouns: Who cares? I don't. **Literally i don't give a `$h!7`** about what pronouns you use.
+- 😄 Pronouns: Who cares? I don't. **Literally i don't give a flying `f$%#`** about what pronouns you use.
 - ⚡ Fun fact: `I had FUN once, it was awful`
