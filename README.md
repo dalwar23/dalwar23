@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [https://dalwar23.com](https://dalwar23.com)
 - 😄 Pronouns: Who cares? I don't. Literally, **I don't give a flying `f$%#`** about what pronouns you use.
 - ⚡ Fun fact: `I had FUN once, it was awful`
-- 🙈 NDA: Believe it or not, most of my projects are bound by `NDA` 😉
+- 🙈 NDA: Believe it or not, most of my projects are bound by `NDA` 🙊 , so github repo seems empty! 🙉
