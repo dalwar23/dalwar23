@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [jetburn](https://jetburn.rtfd.io)
+- 🔭 I’m currently working on [jetburn](https://jetburn.rtfd.io) in [go](https://golang.org)
 - 🌱 I’m currently learning `the subtle art of not giving a` **`f$%#`**
 - 👯 I’m looking to collaborate on projects that `helps build high quality source code`
 - 💬 Ask me about `DevOps`, `CI/CD`, `Jenkins`, `K8s`, `Cisco Meraki`, `DevNet`, `System Administration`, `NGINX`
