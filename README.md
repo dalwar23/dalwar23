@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [jetburn](https://jetburn.rtfd.io) in [go](https://golang.org)
 - 🌱 I’m currently learning `the subtle art of not giving a` **`f$%#`**
 - 🍒 I’m looking to collaborate on projects that `helps build high quality source code`
-- 💬 Ask me about `DevOps`, `CI/CD`, `Jenkins`, `K8s`, `Cisco Meraki`, `DevNet`, `System Administration`, `NGINX`
+- 💬 Ask me about `DevOps`, `CI/CD`, `Jenkins`, `K8s`, `terraform`, `helm`, `Cisco Meraki`, `DevNet`, `System Administration`, `NGINX`
 - 📫 How to reach me: [https://dalwar23.com](https://dalwar23.com)
 - 😄 Pronouns: Who cares? I don't. Literally, **I don't give a flying `f$%#`** about what pronouns you use.
 - ⚡ Fun fact: `I had FUN once, it was awful`
-- 🙈 NDA: Believe it or not, most of my projects are bound by `NDA` 🙊 , so github repo seems empty! 🙉
