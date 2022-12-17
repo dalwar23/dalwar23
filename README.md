@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [jetburn](https://jetburn.rtfd.io) in [go](https://golang.org)
 - 🌱 I’m currently learning `the subtle art of not giving a` **`f$%#`**
-- 🍒 I’m looking to collaborate on projects that `helps build high quality source code`
-- 💬 Ask me about `DevOps`, `CI/CD`, `Jenkins`, `K8s`, `terraform`, `helm`, `Cisco Meraki`, `DevNet`, `NGINX`
+- 🍒 I’m looking to collaborate on projects that `helps to create high quality source code`
+- 💬 Ask me about `Infrastructure`, `DevOps`, `CI/CD`, `Jenkins`, `K8s`, `terraform`, `helm`, `Cisco Meraki`, `DevNet`, `NGINX`
 - 📫 How to reach me: [https://dalwar23.com](https://dalwar23.com)
 - ⚡ Fun fact: `I had FUN once, it was awful`
