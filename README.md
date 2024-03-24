@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [jetburn](https://jetburn.rtfd.io) in [go](https://golang.org)
+- 🔭 I’m currently working on [kumaone](https://kumaone.rtfd.io), a bulk CLI action helper for [uptime kuma](https://github.com/louislam/uptime-kuma)
 - 🌱 I’m currently learning `the subtle art of not giving a` **`f$%#`**
 - 🍒 I’m looking to collaborate on projects that `helps to create high quality source code`
 - 💬 Ask me about `Infrastructure`, `DevOps`, `CI/CD`, `Jenkins`, `K8s`, `terraform`, `helm`, `Cisco Meraki`, `DevNet`, `NGINX`
