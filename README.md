@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [kumaone](https://kumaone.rtfd.io), a bulk CLI action helper for [uptime kuma](https://github.com/louislam/uptime-kuma)
-- 🌱 I’m currently learning `the subtle art of not giving a` **`f$%#`**
+- 🌱 I’m currently reading `Hidden Potential`
 - 🍒 I’m looking to collaborate on projects that `helps to create high quality source code`
-- 💬 Ask me about `Infrastructure`, `DevOps`, `CI/CD`, `Jenkins`, `K8s`, `terraform`, `helm`, `Cisco Meraki`, `DevNet`, `NGINX`
+- 💬 Ask me about `Infrastructure`, `Azure Cloud`, `DevOps`, `CI/CD`, `Jenkins`, `K8s`, `terraform`, `helm`, `NGINX`, `External Secrets Manager`, `Cert Manger` and `Azure Workload Identity Federation`
 - 📫 How to reach me: [https://dalwar23.com](https://dalwar23.com)
 - ⚡ Fun fact: `I had FUN once, it was awful`
